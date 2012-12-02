@@ -1,0 +1,11 @@
+A jQuery plugin that allows you set an interval timer with hooks to interrupt 
+the timer and wait before resuming the interval.
+
+Example:
+Isn't it annoying when there's an image slider/carousel on a web page that
+insists on automatically cycling away from the image you've selected because of
+some interval timer that has been set?  Wouldn't it be nicer if the slider
+waited for a period of user inactivity before resuming its automatic cycling?
+The interruptibleInterval plugin makes setting up this kind of behaviour easy.
+
+
